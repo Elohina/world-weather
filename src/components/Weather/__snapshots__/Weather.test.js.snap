@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Weather /> should match the snapshot 1`] = `"<div class=\\"sc-fzqBZW dWMMkj\\"><div class=\\"sc-AxhCb DnkkQ\\"></div><div class=\\"sc-fzokOt bOMXGc\\"><h3>Week</h3><h5>Click on each day to see the details</h5></div></div>"`;
