@@ -60,7 +60,7 @@ const Weather = ({ lat, lng, address }) => {
 
   return (
     <Container>
-      { showErrorMessage ? (<p>Ups! There is a problem fetching the weather data. Please, try againg later.</p>)
+      { showErrorMessage ? (<p>Oops! There was a problem fetching the weather. Please try again later.</p>)
       : (
         <Fragment>
           <CardDetail
