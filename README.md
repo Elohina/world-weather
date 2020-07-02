@@ -1,6 +1,6 @@
 # World Weather
 
-[Link to demo](https://master.dzs9pe1tlftth.amplifyapp.com/)
+[Link to demo](https://master.d3anacgxfbrtwd.amplifyapp.com/)
 
 ## Features
 
